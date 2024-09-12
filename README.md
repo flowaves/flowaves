@@ -1,6 +1,6 @@
 # Hi there![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-I'm Parencil, a passionate student from France with a deep love for computer science, programming, cybersecurity, and electronics since a young age. I enjoy exploring new technologies and innovating in various fields. I'm a strong advocate for open source and love contributing to the community. When I'm not in front of my computer, you can find me swimming or exploring diverse topics that interest me.
+I'm Flowaves, a passionate student from France with a deep love for computer science, programming, cybersecurity, and electronics since a young age. I enjoy exploring new technologies and innovating in various fields. I'm a strong advocate for open source and love contributing to the community. When I'm not in front of my computer, you can find me swimming or exploring diverse topics that interest me.
 
 - 🌍  I'm based in France
 - 🔭  I’m currently working on [Hello World Bot !](https://github.com/parencil/HelloWorld_Bot)
